@@ -6,9 +6,13 @@ Features:
 
 
 -Record student attendance (Present P/Absent A/Leave L)
+
 -Organize attendance by date
+
 -Easy tracking and monitoring
+
 -Clean and structured data format
+
 -Simple and user-friendly design
 
 
@@ -16,6 +20,7 @@ Technologies Used:
 
 
 -Microsoft Excel
+
 -Data tables & formulas
 
 How It Works:
@@ -30,9 +35,9 @@ Purpose
 
 This project was created to:
 
--Simplify attendance tracking  
--Reduce manual errors  
+-Simplify attendance tracking
+
+-Reduce manual errors
+
 -Provide a clear and organized system.  
 
-
-If you like this project, give it a ⭐ on GitHub!
