@@ -29,6 +29,7 @@ How It Works:
 Purpose
 
 This project was created to:
+
 -Simplify attendance tracking  
 -Reduce manual errors  
 -Provide a clear and organized system.  
