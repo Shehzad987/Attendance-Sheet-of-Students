@@ -4,7 +4,7 @@ A simple and efficient "Attendance Management System" built to record, track, an
 
 Features
 
--Record student attendance (Present/Absent)
+-Record student attendance (Present P/Absent A/Leave L)
 -Organize attendance by date
 -Easy tracking and monitoring
 -Clean and structured data format
