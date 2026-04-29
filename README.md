@@ -2,7 +2,8 @@
 
 A simple and efficient "Attendance Management System" built to record, track, and manage student attendance using structured data.
 
-Features
+Features:
+
 
 -Record student attendance (Present P/Absent A/Leave L)
 -Organize attendance by date
@@ -10,12 +11,15 @@ Features
 -Clean and structured data format
 -Simple and user-friendly design
 
-Technologies Used
+
+Technologies Used:
+
 
 -Microsoft Excel
 -Data tables & formulas
 
-How It Works
+How It Works:
+
 
 1. Enter student names in the sheet  
 2. Mark attendance daily (Present/Absent)  
